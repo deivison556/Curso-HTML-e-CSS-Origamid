@@ -1,0 +1,24 @@
+#introducao {
+  color: gold;
+  text-transform: uppercase;
+  text-decoration: underline;
+}
+
+.codigo {
+  color: black;
+  display: inline-block;
+  padding: 8px 10px;
+  border-radius: 4px;
+  background-color: lightgray;
+  text-decoration: none;
+}
+
+.codigo:hover {
+  background-color: gray;
+}
+
+.design {
+  text-transform: uppercase;
+  text-decoration: underline;
+  letter-spacing: 1px;
+}
