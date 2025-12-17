@@ -1,0 +1,55 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  padding: 8px 0;
+}
+
+h2 a {
+  text-decoration: none;
+  margin: 8px;
+  color: seagreen;
+  font-size: 25px;
+}
+ 
+h2 a:hover {
+  color: rgb(24, 77, 47);
+}
+
+
+.estreia, .estreia-amanha {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-left: 10px;
+  background-color: tomato;
+}
+
+.estreia {
+  color: darkred;
+  background-color: antiquewhite;
+}
+
+.estreia-amanha {
+  color: darkblue;
+  background-color: whitesmoke;
+}
+
+.btn-inicio {
+  display: inline-block;
+  text-decoration: none;
+  margin: 20px 0 0 10px;
+  background-color: rgb(255, 208, 0);
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: rgb(5, 5, 5);
+}
+
+.btn-inicio:hover {
+  background-color: rgb(218, 172, 23);
+}
